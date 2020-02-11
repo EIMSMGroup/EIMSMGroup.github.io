@@ -12,13 +12,13 @@ hide_footer: true
 
 <!-- Header -->
 
-#<div class="header home-header">
+<!--<div class="header home-header">
  #   <div class="Grid container">
   #      <div id="header-text" class="Grid-cell u-size7of8">
    #         <h1 class="large-title">Emory Immunology Multiscale Modeling Group</h1>
     #    </div>
     #</div>
-#</div>
+#</div> -->
 
 **Welcome to the Emory Immunology Multiscale Modeling Group**
 
