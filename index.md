@@ -1,9 +1,18 @@
+---
+layout: default
+title: EIMSMG
+description: Emory Immunology Multiscale Modeling Group
+keywords: emory, multiscale, modeling, immunology, influenza, zarnitsyna
+url: https://eimsmgroup.github.io
+custom_css: index.css
+custom_js: index.js
+---
+
 <!-- Header -->
 
 <div class="header home-header">
     <div class="Grid container">
         <div id="header-text" class="Grid-cell u-size7of8">
-            
             <h1 class="large-title">Emory Immunology Multiscale Modeling Group</h1>
         </div>
     </div>
@@ -11,7 +20,7 @@
 
 ** Welcome to the Emory Immunology Multiscale Modeling Group**
 
-Our collaborative research group at Emory University seeks to use multiscale modeling and experimental data to answer questions on the immune response to influenza strains after either natural infection or vaccination.
+Our collaborative research group at Emory University seeks to utilize multiscale modeling to determine influenza vaccination strategies for optimal T cell immunity. Our group consists of both experimentalists and modelers from a variety of backgrounds.
 
 You can find our published work 
                 <a href="https://github.com/EIMSMGroup/Published-Work" target="_blank"> here.</a>
