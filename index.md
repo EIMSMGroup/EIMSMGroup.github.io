@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EIMSMG
+title: Emory Immunology Multiscale Modeling Group
 description: Emory Immunology Multiscale Modeling Group
 keywords: emory, multiscale, modeling, immunology, influenza, zarnitsyna
 url: https://eimsmgroup.github.io
