@@ -6,6 +6,7 @@ keywords: emory, multiscale, modeling, immunology, influenza, zarnitsyna
 url: https://eimsmgroup.github.io
 custom_css: index.css
 custom_js: index.js
+hide_footer: true
 ---
 {% assign page.title = site.name %}
 
