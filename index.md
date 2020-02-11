@@ -7,6 +7,7 @@ url: https://eimsmgroup.github.io
 custom_css: index.css
 custom_js: index.js
 ---
+{% assign page.title = site.name %}
 
 <!-- Header -->
 
