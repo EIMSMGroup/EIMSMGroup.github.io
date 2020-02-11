@@ -19,7 +19,7 @@ custom_js: index.js
     </div>
 </div>
 
-** Welcome to the Emory Immunology Multiscale Modeling Group**
+**Welcome to the Emory Immunology Multiscale Modeling Group**
 
 Our collaborative research group at Emory University seeks to utilize multiscale modeling to determine influenza vaccination strategies for optimal T cell immunity. Our group consists of both experimentalists and modelers from a variety of backgrounds.
 
